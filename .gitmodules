@@ -1,0 +1,3 @@
+[submodule "rapport/LaTexTemplate"]
+	path = rapport/LaTexTemplate
+	url = git@github.com:aroquemaurel/LaTexTemplate.git
