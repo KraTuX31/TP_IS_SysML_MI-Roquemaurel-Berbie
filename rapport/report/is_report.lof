@@ -1,5 +1,17 @@
 \select@language {french}
 \addvspace {10\p@ }
-\contentsline {xchapter}{R\IeC {\'e}f\IeC {\'e}rences}{2}{chapter.1}
+\contentsline {xchapter}{\IeC {\`A} propos}{3}{chapter.1}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Table des figures}{3}{chapter.2}
+\contentsline {xchapter}{Diagramme des exigences}{4}{chapter.2}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Diagramme des cas d'utilisations}{5}{chapter.3}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Diagrammes de blocks de d\IeC {\'e}finition (bdd)}{6}{chapter.4}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Diagrammes internes de blocks (ibd)}{7}{chapter.5}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Diagrammes comportementaux}{8}{chapter.6}
+\addvspace {10\p@ }
+\contentsline {xchapter}{R\IeC {\'e}f\IeC {\'e}rences}{11}{chapter.7}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Table des figures}{12}{chapter.8}

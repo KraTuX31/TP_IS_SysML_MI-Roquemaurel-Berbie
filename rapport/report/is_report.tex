@@ -28,13 +28,13 @@
 \usepackage{epstopdf}
 
 
-\newcommand{\titre}{Plan d'Assurance Qualité Logicielle}
-\newcommand{\logoFooter}{\begin{minipage}{0.1\textwidth}\includegraphics[width=2cm]{../../images/FACT_official.png}\end{minipage}}
-\newcommand{\titreFooter}{Plan d'assurance Qualité Logicielle} 
-\newcommand{\subtitle}{FactDev} 
-\newcommand{\auteur}{}
-\newcommand{\semestre}{}
-\newcommand{\annee}{2015}
+\newcommand{\titre}{Maison Intelligente}
+%\newcommand{\logoFooter}{\begin{minipage}{0.1\textwidth}\includegraphics[width=2cm]{../../images/FACT_official.png}\end{minipage}}
+\newcommand{\titreFooter}{Maison Intelligente} 
+\newcommand{\subtitle}{SysML} 
+\newcommand{\auteur}{Florent \bsc{BERBIE}, Antoine de \bsc{ROQUEMAUREL}}
+\newcommand{\semestre}{9}
+\newcommand{\annee}{2016}
 
 
 \newcommand{\pole}{}
@@ -59,12 +59,15 @@
 	contents/0_introduction,
 	contents/1_diagram_exigences,
 	contents/2_diagram_use_case,
-	contents/references
-	
+	contents/3_diagram_blocks_bdd,
+	contents/4_diagram_blocks_ibd,
+	contents/5_diagram_states,
+	contents/6_diagram_sequences,
+	contents/references	
 }
 \begin{document}
 	\thispagestyle{empty} % Removes page numbers
-%	\titleBC
+	\titleBC
 	\dominitoc
 	\setcounter{tocdepth}{1}
 	\setcounter{secnumdepth}{3}
@@ -74,8 +77,7 @@
 	\tableofcontents
 
 	% Introcution #1 -----------------------
-	\include{contents/0_introduction}	
-	
+	\include{contents/0_introduction}		
 	
 	\include{contents/1_diagram_exigences} % Diagramme des exigences #2	
 	\include{contents/2_diagram_use_case}  % Diagramme des cas d'utilisation #3
