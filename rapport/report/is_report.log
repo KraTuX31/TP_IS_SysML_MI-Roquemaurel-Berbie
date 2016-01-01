@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.21)  1 JAN 2016 12:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.21)  1 JAN 2016 13:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1732,20 +1732,13 @@ n_uc.eps>
 (epstopdf)                    size: 160792 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_cas_utilisatio
 n_uc-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-01 12:39:39
-(epstopdf)                    size: 2217 bytes
+(epstopdf)                    date: 2016-01-01 12:58:58
+(epstopdf)                    size: 72318 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_cas_utilisation_uc-eps-converted-to.pdf diagrams/bathroom/diagramme_cas_utili
 sation_uc.eps>
 (epstopdf)             \includegraphics on input line 4.
-runsystem(repstopdf --outfile=diagrams/bathroom/diagramme_cas_utilisation_uc-ep
-s-converted-to.pdf diagrams/bathroom/diagramme_cas_utilisation_uc.eps)...execut
-ed safely (allowed).
-
-Package epstopdf Info: Result file: <diagrams/bathroom/diagramme_cas_utilisatio
-n_uc-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-01 12:58:58
-(epstopdf)                    size: 72318 bytes.
+Package epstopdf Info: Output file is already uptodate.
 
 <diagrams/bathroom/diagramme_cas_utilisation_uc-eps-converted-to.pdf, id=65, 14
 71.4975pt x 913.4125pt>
@@ -1781,22 +1774,64 @@ l.81 	\include{contents/2_diagram_use_case}
 
 (./contents/3_diagram_blocks_bdd.tex
 Chapitre 3.
+Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd.eps
+>
+(epstopdf)                    date: 2016-01-01 13:34:06
+(epstopdf)                    size: 134882 bytes
+(epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_bdd-eps
+-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
+e_blocks_bdd-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd.eps>
+(epstopdf)             \includegraphics on input line 4.
+runsystem(repstopdf --outfile=diagrams/bathroom/diagramme_blocks_bdd-eps-conver
+ted-to.pdf diagrams/bathroom/diagramme_blocks_bdd.eps)...executed safely (allow
+ed).
+
+Package epstopdf Info: Result file: <diagrams/bathroom/diagramme_blocks_bdd-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 13:35:44
+(epstopdf)                    size: 53961 bytes.
+
+<diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf, id=78, 2392.94pt 
+x 913.4125pt>
+File: diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf Graphic file 
+(type pdf)
+
+<use diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf>
+Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_bdd-eps-converted-t
+o.pdf used on input line 4.
+(pdftex.def)             Requested size: 500.7687pt x 191.13934pt.
 ) [6
 
 
 
 ]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.82 	\include{contents/3_diagram_blocks_bdd}
+                                              % Diagrammes de blocks (bdd) #4 <
+./diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf>]
 \openout2 = `contents/4_diagram_blocks_ibd.aux'.
 
- (./contents/4_diagram_blocks_ibd.tex
+
+(./contents/4_diagram_blocks_ibd.tex
 Chapitre 4.
-) [7
+) [8
 
 
 
 ]
 Chapitre 5.
-[8
+[9
 
 
 ]
@@ -1819,7 +1854,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9
+! Undefined control sequence.
+\f@ncyerf ->\logoFooter 
+                        \strut 
+l.86 		\include{contents/5_diagram_states}
+                                          	% diagramme d'états (st) #6
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[10
 
 ]
 \openout2 = `contents/6_diagram_sequences.aux'.
@@ -1831,18 +1877,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-! Undefined control sequence.
-\f@ncyerf ->\logoFooter 
-                        \strut 
-l.87 		\include{contents/6_diagram_sequences}
-                                             	% diagrammes de séquences #7
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[10
+[11
 
 
 ]
@@ -1874,7 +1909,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                in the is_report.log file.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
-[11
+[12
 
 
 ]
@@ -1891,13 +1926,16 @@ Package rerunfilecheck Info: File `is_report.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
- 29248 strings out of 493304
- 519876 string characters out of 6139870
+ 29256 strings out of 493304
+ 520191 string characters out of 6139870
  654447 words of memory out of 5000000
- 31796 multiletter control sequences out of 15000+600000
+ 31801 multiletter control sequences out of 15000+600000
  43872 words of font info for 44 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,11n,59p,10488b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1906,10 +1944,10 @@ fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on is_report.pdf (11 pages, 185518 bytes).
+Output written on is_report.pdf (12 pages, 237623 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 112 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 82 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 142 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
