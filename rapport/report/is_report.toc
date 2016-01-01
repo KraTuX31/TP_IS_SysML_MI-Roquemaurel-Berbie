@@ -1,9 +1,9 @@
 \select@language {french}
-\contentsline {chapter}{\numberline {1}\IeC {\`A} propos}{2}{chapter.1}
-\contentsline {chapter}{\numberline {2}Diagramme des exigences (req)}{3}{chapter.2}
-\contentsline {chapter}{\numberline {3}Diagramme des cas d'utilisations (uc)}{4}{chapter.3}
-\contentsline {chapter}{\numberline {4}Diagrammes de blocks de d\IeC {\'e}finition (bdd)}{6}{chapter.4}
-\contentsline {chapter}{\numberline {5}Diagrammes internes de blocks (ibd)}{7}{chapter.5}
-\contentsline {chapter}{\numberline {6}Diagrammes comportementaux}{8}{chapter.6}
-\contentsline {chapter}{\numberline {7}Diagrammes d'\IeC {\'e}tats (st)}{9}{chapter.7}
-\contentsline {chapter}{\numberline {8}Table des figures}{10}{chapter.8}
+\contentsline {chapter}{\numberline {1}Diagramme des exigences (req)}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Diagramme des cas d'utilisations (uc)}{4}{chapter.2}
+\contentsline {chapter}{\numberline {3}Diagrammes de blocks de d\IeC {\'e}finition (bdd)}{6}{chapter.3}
+\contentsline {chapter}{\numberline {4}Diagrammes internes de blocks (ibd)}{7}{chapter.4}
+\contentsline {chapter}{\numberline {5}Diagrammes comportementaux}{8}{chapter.5}
+\contentsline {section}{\numberline {5.1}Diagrammes d'\IeC {\'e}tats (st)}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}Diagrammes de s\IeC {\'e}quences (seq)}{10}{section.5.2}
+\contentsline {chapter}{\numberline {6}Table des figures}{11}{chapter.6}
