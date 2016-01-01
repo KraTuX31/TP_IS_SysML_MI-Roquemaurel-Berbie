@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.21)  1 JAN 2016 13:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.21)  1 JAN 2016 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1658,38 +1658,38 @@ LaTeX Font Info:    Try loading font information for T1+lmss on input line 75.
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (./is_report.toc
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 7.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 5.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 7.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 5.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 7.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 5.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 7.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 5.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 7.
+(Font)              <12> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 7.
+(Font)              <8> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 7.
-LaTeX Font Info:    Try loading font information for U+msa on input line 7.
+(Font)              <6> on input line 5.
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1740,7 +1740,7 @@ sation_uc.eps>
 (epstopdf)             \includegraphics on input line 4.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_cas_utilisation_uc-eps-converted-to.pdf, id=65, 14
+<diagrams/bathroom/diagramme_cas_utilisation_uc-eps-converted-to.pdf, id=75, 14
 71.4975pt x 913.4125pt>
 File: diagrams/bathroom/diagramme_cas_utilisation_uc-eps-converted-to.pdf Graph
 ic file (type pdf)
@@ -1774,33 +1774,59 @@ l.81 	\include{contents/2_diagram_use_case}
 
 (./contents/3_diagram_blocks_bdd.tex
 Chapitre 3.
+LaTeX Font Info:    Try loading font information for T1+pag on input line 2.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pag.fd
+File: t1pag.fd 2001/06/04 font definitions for T1/pag.
+)
+
+LaTeX Font Warning: Font shape `T1/pag/bc/n' undefined
+(Font)              using `T1/pag/m/n' instead on input line 2.
+
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd.eps
 >
-(epstopdf)                    date: 2016-01-01 13:34:06
-(epstopdf)                    size: 134882 bytes
+(epstopdf)                    date: 2016-01-01 13:38:41
+(epstopdf)                    size: 138557 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_bdd-eps
 -converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 13:53:23
+(epstopdf)                    size: 54862 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_blocks_bdd-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd.eps>
-(epstopdf)             \includegraphics on input line 4.
-runsystem(repstopdf --outfile=diagrams/bathroom/diagramme_blocks_bdd-eps-conver
-ted-to.pdf diagrams/bathroom/diagramme_blocks_bdd.eps)...executed safely (allow
-ed).
+(epstopdf)             \includegraphics on input line 5.
+Package epstopdf Info: Output file is already uptodate.
 
-Package epstopdf Info: Result file: <diagrams/bathroom/diagramme_blocks_bdd-eps
--converted-to.pdf>
-(epstopdf)                    date: 2016-01-01 13:35:44
-(epstopdf)                    size: 53961 bytes.
-
-<diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf, id=78, 2392.94pt 
+<diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf, id=88, 2392.94pt 
 x 913.4125pt>
 File: diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf Graphic file 
 (type pdf)
 
 <use diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf>
 Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_bdd-eps-converted-t
-o.pdf used on input line 4.
+o.pdf used on input line 5.
 (pdftex.def)             Requested size: 500.7687pt x 191.13934pt.
+Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd2.ep
+s>
+(epstopdf)                    date: 2016-01-01 13:50:46
+(epstopdf)                    size: 112707 bytes
+(epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_bdd2-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 13:53:23
+(epstopdf)                    size: 46745 bytes
+(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
+e_blocks_bdd2-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd2.eps>
+
+(epstopdf)             \includegraphics on input line 13.
+Package epstopdf Info: Output file is already uptodate.
+
+<diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf, id=89, 2411.0075
+pt x 797.98125pt>
+File: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf>
+Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-
+to.pdf used on input line 13.
+(pdftex.def)             Requested size: 500.7687pt x 165.73022pt.
 ) [6
 
 
@@ -1818,8 +1844,16 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.82 	\include{contents/3_diagram_blocks_bdd}
+                                              % Diagrammes de blocks (bdd) #4pd
+fTeX warning (ext4): destination with the same identifier (name{figure.3.2}) ha
+s been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.82 	\include{contents/3_diagram_blocks_bdd}
                                               % Diagrammes de blocks (bdd) #4 <
-./diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf>]
+./diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf> <./diagrams/bath
+room/diagramme_blocks_bdd2-eps-converted-to.pdf>]
 \openout2 = `contents/4_diagram_blocks_ibd.aux'.
 
 
@@ -1837,17 +1871,7 @@ Chapitre 5.
 ]
 \openout2 = `contents/5_diagram_states.aux'.
 
- (./contents/5_diagram_states.tex
-LaTeX Font Info:    Try loading font information for T1+pag on input line 1.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pag.fd
-File: t1pag.fd 2001/06/04 font definitions for T1/pag.
-)
-
-LaTeX Font Warning: Font shape `T1/pag/bc/n' undefined
-(Font)              using `T1/pag/m/n' instead on input line 1.
-
-)
+ (./contents/5_diagram_states.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1921,7 +1945,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
 Package rerunfilecheck Info: File `is_report.out' has not changed.
-(rerunfilecheck)             Checksum: 347AD06212414009DCA9F3D4CBCF02A7;559.
+(rerunfilecheck)             Checksum: 5BE384BD41618FCD6E9C2CFC8D7AD799;729.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1932,22 +1956,22 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
- 29256 strings out of 493304
- 520191 string characters out of 6139870
- 654447 words of memory out of 5000000
- 31801 multiletter control sequences out of 15000+600000
+ 29267 strings out of 493304
+ 520553 string characters out of 6139870
+ 654566 words of memory out of 5000000
+ 31808 multiletter control sequences out of 15000+600000
  43872 words of font info for 44 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,11n,59p,10488b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,11n,59p,10488b,393s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
 fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on is_report.pdf (12 pages, 237623 bytes).
+Output written on is_report.pdf (12 pages, 284919 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
- 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 158 PDF objects out of 1000 (max. 8388607)
+ 134 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
