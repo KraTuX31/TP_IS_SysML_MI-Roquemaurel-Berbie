@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.21)  1 JAN 2016 13:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.21)  2 JAN 2016 11:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1726,6 +1726,11 @@ Chapitre 1.
 
  (./contents/2_diagram_use_case.tex
 Chapitre 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_cas_utilisatio
 n_uc.eps>
 (epstopdf)                    date: 2016-01-01 12:55:29
@@ -1737,7 +1742,7 @@ n_uc-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_cas_utilisation_uc-eps-converted-to.pdf diagrams/bathroom/diagramme_cas_utili
 sation_uc.eps>
-(epstopdf)             \includegraphics on input line 4.
+(epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
 
 <diagrams/bathroom/diagramme_cas_utilisation_uc-eps-converted-to.pdf, id=75, 14
@@ -1747,7 +1752,7 @@ ic file (type pdf)
 
 <use diagrams/bathroom/diagramme_cas_utilisation_uc-eps-converted-to.pdf>
 Package pdftex.def Info: diagrams/bathroom/diagramme_cas_utilisation_uc-eps-con
-verted-to.pdf used on input line 4.
+verted-to.pdf used on input line 8.
 (pdftex.def)             Requested size: 500.7687pt x 310.84883pt.
 )
 [4
@@ -1950,15 +1955,12 @@ Package rerunfilecheck Info: File `is_report.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
  29267 strings out of 493304
  520553 string characters out of 6139870
- 654566 words of memory out of 5000000
+ 654592 words of memory out of 5000000
  31808 multiletter control sequences out of 15000+600000
  43872 words of font info for 44 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1968,7 +1970,7 @@ fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on is_report.pdf (12 pages, 284919 bytes).
+Output written on is_report.pdf (12 pages, 286120 bytes).
 PDF statistics:
  158 PDF objects out of 1000 (max. 8388607)
  134 compressed objects within 2 object streams
