@@ -7,14 +7,17 @@
 	\label{fig:diagramme_bdd}
 \end{figure}
 
-\section{Diagramme de bloc de « Montee-Descente »}
+\section{Diagramme de bloc de « Montée-Descente »}
+Chaque mobilier doit pouvoir moduler sa hauteur pour s'adapter à l'habitant de la MI. Chaque mobilier de la salle de bain de dote d'un bloc « Montée-Descente » comportant :
+\begin{description}
+	\item[Capteur de mouvement Infra-Rouge] détermine les mouvements de l'habitant
+	\item[Capteur laser] permet de déterminer la taille de l'habitant afin de pouvoir s'adapter à lui
+	\item[Système élévateur] permet de monter ou descendre la dalle supportant le mobilier (ou l'habitant si celui-ci est dans la douche) en fonction de sa position actuelle et de la taille de l'habitant.   
+\end{description}
+
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth]{diagrams/bathroom/diagramme_blocks_bdd2.eps}
 	\caption{Diagramme de bloc de définition de « Montée-Descente »}
 	\label{fig:diagramme_bdd2}
 \end{figure}
-
-%
-%tu penses quoi d'un truc comme ça, ou tu as d'un côté les capteurs utilisés par rapport à l'utilisateur
-%et d'un autre le système élevateur avec un capteur de position pour connaitre la hauteur, une dalle élèvatrice et un CPU qui fait les calculs pour savoir comment ajuster la hauteur après elle a dit qu'on doit pas raffiné jusqu'à en crever
