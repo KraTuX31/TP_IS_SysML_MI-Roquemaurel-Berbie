@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {3.1}Diagramme de bloc g\IeC {\'e}n\IeC {\'e}rale}{6}{section.3.1}
 \contentsline {section}{\numberline {3.2}Diagramme de bloc de \IeC {\guillemotleft } Mont\IeC {\'e}e-Descente \IeC {\guillemotright }}{6}{section.3.2}
 \contentsline {chapter}{\numberline {4}Diagrammes internes de blocks (ibd)}{8}{chapter.4}
-\contentsline {chapter}{\numberline {5}Diagrammes comportementaux}{9}{chapter.5}
+\contentsline {chapter}{\numberline {5}Diagrammes comportementaux}{10}{chapter.5}
 \contentsline {section}{\numberline {5.1}Diagrammes d'\IeC {\'e}tats (st)}{10}{section.5.1}
 \contentsline {section}{\numberline {5.2}Diagrammes de s\IeC {\'e}quences (seq)}{11}{section.5.2}
 \contentsline {chapter}{\numberline {6}Table des figures}{12}{chapter.6}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.21)  2 JAN 2016 21:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.21)  3 JAN 2016 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1501,8 +1501,11 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 ) (./is_report.aux
 (./contents/0_introduction.aux) (./contents/1_diagram_exigences.aux)
 (./contents/2_diagram_use_case.aux) (./contents/3_diagram_blocks_bdd.aux)
-(./contents/4_diagram_blocks_ibd.aux) (./contents/5_diagram_states.aux)
-(./contents/6_diagram_sequences.aux))
+(./contents/4_diagram_blocks_ibd.aux
+
+LaTeX Warning: Label `fig:diagramme_cas_utilisation_uc' multiply defined.
+
+) (./contents/5_diagram_states.aux) (./contents/6_diagram_sequences.aux))
 \openout1 = `is_report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
@@ -1520,7 +1523,8 @@ LaTeX Font Info:    ... okay on input line 67.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 67.
- (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -1859,13 +1863,49 @@ room/diagramme_blocks_bdd2-eps-converted-to.pdf>]
 
 (./contents/4_diagram_blocks_ibd.tex
 Chapitre 4.
+Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_ibd.eps
+>
+(epstopdf)                    date: 2016-01-03 15:54:26
+(epstopdf)                    size: 150766 bytes
+(epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_ibd-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2016-01-03 15:55:09
+(epstopdf)                    size: 61988 bytes
+(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
+e_blocks_ibd-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_ibd.eps>
+(epstopdf)             \includegraphics on input line 4.
+Package epstopdf Info: Output file is already uptodate.
+
+<diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf, id=103, 1966.3462
+5pt x 885.3075pt>
+File: diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf Graphic file 
+(type pdf)
+
+<use diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf>
+Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_ibd-eps-converted-t
+o.pdf used on input line 4.
+(pdftex.def)             Requested size: 500.7687pt x 225.45998pt.
 ) [8
 
 
 
 ]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.83 	\include{contents/4_diagram_blocks_ibd}
+                                              % Diagrammes de blocks (ibd) #5 <
+./diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf>]
 Chapitre 5.
-[9
+[10
 
 
 ]
@@ -1927,13 +1967,16 @@ Package rerunfilecheck Info: File `is_report.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
- 29263 strings out of 493304
- 520473 string characters out of 6139870
- 654594 words of memory out of 5000000
- 31807 multiletter control sequences out of 15000+600000
+ 29270 strings out of 493304
+ 520769 string characters out of 6139870
+ 654634 words of memory out of 5000000
+ 31811 multiletter control sequences out of 15000+600000
  43872 words of font info for 44 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,11n,59p,10488b,393s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1945,10 +1988,10 @@ nts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb><
 /usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type
 1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on is_report.pdf (11 pages, 276326 bytes).
+Output written on is_report.pdf (12 pages, 336343 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 100 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 160 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
