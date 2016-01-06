@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.21)  6 JAN 2016 18:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  6 JAN 2016 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1627,6 +1627,134 @@ Package minitoc(hints) Warning: W0023
 
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 67.
+\drop=\skip169
+
+! Undefined control sequence.
+<argument> \logo 
+                 
+l.69 	\titleBC
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Undefined control sequence.
+ ->\errmessage  LaTeX Error: File `\logo 
+                                         ' not found.
+
+See the LaTeX manual ...
+l.69 	\titleBC
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! LaTeX Error: File `' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 	\titleBC
+              
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 	\titleBC
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 69.
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 69.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 69.
+
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 69.
+
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 69.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 69.
+LaTeX Font Info:    Try loading font information for U+msa on input line 69.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 69.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 69.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 69.
+
+! Undefined control sequence.
+\titleBC ... \par \vfill \par {\LARGE {\formation 
+                                                  \\\large {}Semestre~\semes...
+l.69 	\titleBC
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 	\titleBC
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\titleBC ... \scriptsize { Cours donné par \prof 
+                                                  {}\\ Rédigé par Antoine ...
+l.69 	\titleBC
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM is_report.toc on input line 71.
 Package minitoc Info: I0033
@@ -1657,89 +1785,55 @@ Package minitoc Info: I0033
 (minitoc)             Writing is_report.mtc7.
 \openout4 = `is_report.mtc7'.
 
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 75.
 
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (./is_report.toc
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 5.
-
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 5.
-
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 5.
-
-(/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 5.
-
-(/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 5.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 5.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 5.
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) (./is_report.toc)
 \tf@toc=\write8
 \openout8 = `is_report.toc'.
 
- [1
+ [2
 
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+]
 \openout2 = `contents/0_introduction.aux'.
 
- (./contents/0_introduction.tex) [2
+
+(./contents/0_introduction.tex) [3
 
 
 ]
 \openout2 = `contents/1_diagram_exigences.aux'.
 
-
-(./contents/1_diagram_exigences.tex
+ (./contents/1_diagram_exigences.tex
 Chapitre 1.
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_exiquences_req
 .eps>
-(epstopdf)                    date: 2016-01-03 18:32:06
-(epstopdf)                    size: 339748 bytes
+(epstopdf)                    date: 2016-01-06 20:59:21
+(epstopdf)                    size: 345271 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_exiquences_req
 -eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-04 21:40:51
-(epstopdf)                    size: 140010 bytes
+(epstopdf)                    date: 2016-01-06 20:59:25
+(epstopdf)                    size: 144517 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_exiquences_req-eps-converted-to.pdf diagrams/bathroom/diagramme_exiquences_re
 q.eps>
 (epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_exiquences_req-eps-converted-to.pdf, id=86, 2014.5
-2625pt x 814.04124pt>
+<diagrams/bathroom/diagramme_exiquences_req-eps-converted-to.pdf, id=87, 1910.1
+3625pt x 1496.59125pt>
 File: diagrams/bathroom/diagramme_exiquences_req-eps-converted-to.pdf Graphic f
 ile (type pdf)
 
 <use diagrams/bathroom/diagramme_exiquences_req-eps-converted-to.pdf>
 Package pdftex.def Info: diagrams/bathroom/diagramme_exiquences_req-eps-convert
 ed-to.pdf used on input line 10.
-(pdftex.def)             Requested size: 500.7687pt x 202.35463pt.
-) [3
+(pdftex.def)             Requested size: 500.7687pt x 392.34727pt.
+) [4
 
 
 
@@ -1763,11 +1857,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_cas_utilisatio
 n_uc.eps>
-(epstopdf)                    date: 2016-01-01 12:55:29
+(epstopdf)                    date: 2016-01-06 20:35:41
 (epstopdf)                    size: 160792 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_cas_utilisatio
 n_uc-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-01 12:58:58
+(epstopdf)                    date: 2016-01-06 20:35:41
 (epstopdf)                    size: 72318 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_cas_utilisation_uc-eps-converted-to.pdf diagrams/bathroom/diagramme_cas_utili
@@ -1785,7 +1879,7 @@ Package pdftex.def Info: diagrams/bathroom/diagramme_cas_utilisation_uc-eps-con
 verted-to.pdf used on input line 8.
 (pdftex.def)             Requested size: 500.7687pt x 310.84883pt.
 )
-[4
+[5
 
 
 
@@ -1812,15 +1906,15 @@ LaTeX Font Warning: Font shape `T1/pag/bc/n' undefined
 
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd.eps
 >
-(epstopdf)                    date: 2016-01-04 21:40:51
+(epstopdf)                    date: 2016-01-06 20:35:41
 (epstopdf)                    size: 185737 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_bdd-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2016-01-04 21:40:51
+(epstopdf)                    date: 2016-01-06 20:35:41
 (epstopdf)                    size: 73479 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_blocks_bdd-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd.eps>
-(epstopdf)             \includegraphics on input line 15.
+(epstopdf)             \includegraphics on input line 13.
 Package epstopdf Info: Output file is already uptodate.
 
 <diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf, id=105, 2933.9612
@@ -1830,32 +1924,9 @@ File: diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf Graphic file
 
 <use diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf>
 Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_bdd-eps-converted-t
-o.pdf used on input line 15.
+o.pdf used on input line 13.
 (pdftex.def)             Requested size: 500.7687pt x 155.89131pt.
-Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd2.ep
-s>
-(epstopdf)                    date: 2016-01-02 21:46:13
-(epstopdf)                    size: 95185 bytes
-(epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_bdd2-ep
-s-converted-to.pdf>
-(epstopdf)                    date: 2016-01-04 21:40:51
-(epstopdf)                    size: 39244 bytes
-(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
-e_blocks_bdd2-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd2.eps>
-
-(epstopdf)             \includegraphics on input line 30.
-Package epstopdf Info: Output file is already uptodate.
-
-<diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf, id=106, 2240.37p
-t x 797.98125pt>
-File: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf Graphic file
- (type pdf)
-
-<use diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf>
-Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-
-to.pdf used on input line 30.
-(pdftex.def)             Requested size: 500.7687pt x 178.35693pt.
-) [5
+ [6
 
 
 
@@ -1864,27 +1935,40 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.82 	\include{contents/3_diagram_blocks_bdd}
-                                              % Diagrammes de blocks (bdd) #4 <
-./diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf>]
+l.19 \section
+             {Diagramme de bloc de « Montée-Descente »} <./diagrams/bathroom
+/diagramme_blocks_bdd-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd2.ep
+s>
+(epstopdf)                    date: 2016-01-06 20:43:31
+(epstopdf)                    size: 16173 bytes
+(epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_bdd2-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2016-01-06 20:43:40
+(epstopdf)                    size: 8377 bytes
+(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
+e_blocks_bdd2-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd2.eps>
+
+(epstopdf)             \includegraphics on input line 29.
+Package epstopdf Info: Output file is already uptodate.
+
+<diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf, id=114, 2240.37p
+t x 797.98125pt>
+File: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf>
+Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-
+to.pdf used on input line 29.
+(pdftex.def)             Requested size: 500.7687pt x 178.35693pt.
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-! Undefined control sequence.
-\f@ncyerf ->\logoFooter 
-                        \strut 
-l.82 	\include{contents/3_diagram_blocks_bdd}
-                                              % Diagrammes de blocks (bdd) #4
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[6pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1899,18 +1983,18 @@ l.82 	\include{contents/3_diagram_blocks_bdd}
 Chapitre 4.
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_ibd.eps
 >
-(epstopdf)                    date: 2016-01-03 15:54:26
+(epstopdf)                    date: 2016-01-06 20:35:41
 (epstopdf)                    size: 150766 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_ibd-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2016-01-03 15:55:09
+(epstopdf)                    date: 2016-01-06 20:35:41
 (epstopdf)                    size: 61988 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_blocks_ibd-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_ibd.eps>
 (epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf, id=122, 1966.3462
+<diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf, id=129, 1966.3462
 5pt x 885.3075pt>
 File: diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -1919,7 +2003,7 @@ File: diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf Graphic file
 Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_ibd-eps-converted-t
 o.pdf used on input line 8.
 (pdftex.def)             Requested size: 500.7687pt x 225.45998pt.
-) [7
+) [8
 
 
 
@@ -1936,101 +2020,14 @@ l.83 	\include{contents/4_diagram_blocks_ibd}
 
 (./contents/5_diagram_states.tex
 Chapitre 5.
-Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_etat_st.eps>
-(epstopdf)                    date: 2016-01-03 16:23:19
-(epstopdf)                    size: 4973 bytes
-(epstopdf)             Output file: <diagrams/bathroom/diagramme_etat_st-eps-co
-nverted-to.pdf>
-(epstopdf)                    date: 2016-01-03 17:28:08
-(epstopdf)                    size: 2833 bytes
-(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
-e_etat_st-eps-converted-to.pdf diagrams/bathroom/diagramme_etat_st.eps>
-(epstopdf)             \includegraphics on input line 6.
-Package epstopdf Info: Output file is already uptodate.
-
-<diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf, id=132, 83.31125pt x
- 185.69376pt>
-File: diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf Graphic file (ty
-pe pdf)
- <use diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf>
-Package pdftex.def Info: diagrams/bathroom/diagramme_etat_st-eps-converted-to.p
-df used on input line 6.
-(pdftex.def)             Requested size: 500.7687pt x 1116.56822pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8
+) [9
 
 
 
 ]
-Overfull \vbox (407.26054pt too high) has occurred while \output is active []
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[9pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.10 
-      <./diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_etat_st2.eps>
-(epstopdf)                    date: 2016-01-03 16:56:56
-(epstopdf)                    size: 158265 bytes
-(epstopdf)             Output file: <diagrams/bathroom/diagramme_etat_st2-eps-c
-onverted-to.pdf>
-(epstopdf)                    date: 2016-01-03 17:28:09
-(epstopdf)                    size: 66848 bytes
-(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
-e_etat_st2-eps-converted-to.pdf diagrams/bathroom/diagramme_etat_st2.eps>
-(epstopdf)             \includegraphics on input line 17.
-Package epstopdf Info: Output file is already uptodate.
-
-<diagrams/bathroom/diagramme_etat_st2-eps-converted-to.pdf, id=144, 1056.94875p
-t x 1113.15875pt>
-File: diagrams/bathroom/diagramme_etat_st2-eps-converted-to.pdf Graphic file (t
-ype pdf)
-
-<use diagrams/bathroom/diagramme_etat_st2-eps-converted-to.pdf>
-Package pdftex.def Info: diagrams/bathroom/diagramme_etat_st2-eps-converted-to.
-pdf used on input line 17.
-(pdftex.def)             Requested size: 500.7687pt x 527.39708pt.
-)
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-! Undefined control sequence.
-\f@ncyerf ->\logoFooter 
-                        \strut 
-l.85 	\include{contents/5_diagram_states}
-                                         	% diagramme d'états (st) #6
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.85 	\include{contents/5_diagram_states}
-                                         	% diagramme d'états (st) #6 <./diagr
-ams/bathroom/diagramme_etat_st2-eps-converted-to.pdf>]
 \openout2 = `contents/6_diagram_sequences.aux'.
 
-
-(./contents/6_diagram_sequences.tex
+ (./contents/6_diagram_sequences.tex
 Chapitre 6.
 
 Overfull \hbox (10.23761pt too wide) in paragraph at lines 10--10
@@ -2040,18 +2037,18 @@ r dans
 
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_sequence2.eps>
 
-(epstopdf)                    date: 2016-01-03 18:50:02
+(epstopdf)                    date: 2016-01-06 20:35:41
 (epstopdf)                    size: 131341 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_sequence2-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2016-01-03 18:50:18
+(epstopdf)                    date: 2016-01-06 20:35:41
 (epstopdf)                    size: 55501 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_sequence2-eps-converted-to.pdf diagrams/bathroom/diagramme_sequence2.eps>
 (epstopdf)             \includegraphics on input line 16.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf, id=153, 1466.47874
+<diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf, id=142, 1466.47874
 pt x 831.105pt>
 File: diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2060,7 +2057,7 @@ type pdf)
 Package pdftex.def Info: diagrams/bathroom/diagramme_sequence2-eps-converted-to
 .pdf used on input line 16.
 (pdftex.def)             Requested size: 500.7687pt x 283.80208pt.
-) [11
+) [10
 
 
 
@@ -2100,7 +2097,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                in the is_report.log file.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
-[12
+[11
 
 
 ]
@@ -2112,31 +2109,38 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `is_report.out' has not changed.
-(rerunfilecheck)             Checksum: 03D0F5B1B9EACEE154930187B5641681;1038.
+(rerunfilecheck)             Checksum: CDFC341E1153B5731166D1E75EF8B0C7;817.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 29316 strings out of 493304
- 522220 string characters out of 6139870
- 656010 words of memory out of 5000000
- 31840 multiletter control sequences out of 15000+600000
- 48143 words of font info for 45 fonts, out of 8000000 for 9000
+ 29334 strings out of 493304
+ 521898 string characters out of 6139871
+ 654901 words of memory out of 5000000
+ 31843 multiletter control sequences out of 15000+600000
+ 81451 words of font info for 59 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,11n,59p,10488b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
-/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
-></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/ty
-pe1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></u
-sr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on is_report.pdf (12 pages, 636496 bytes).
+/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc
+}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/typ
+e1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></
+usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/p
+ublic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/l
+mr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb>
+Output written on is_report.pdf (11 pages, 648559 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
- 157 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 212 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
