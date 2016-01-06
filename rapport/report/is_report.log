@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  6 JAN 2016 21:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  6 JAN 2016 21:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1744,6 +1744,17 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+! Undefined control sequence.
+\titleBC ... \scriptsize { Cours donné par \prof 
+                                                  {}\\ Rédigé par Antoine ...
+l.69 	\titleBC
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM is_report.toc on input line 71.
 Package minitoc Info: I0033
@@ -1813,7 +1824,7 @@ q.eps>
 (epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_exiquences_req-eps-converted-to.pdf, id=87, 1910.1
+<diagrams/bathroom/diagramme_exiquences_req-eps-converted-to.pdf, id=97, 1910.1
 3625pt x 1496.59125pt>
 File: diagrams/bathroom/diagramme_exiquences_req-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -1858,8 +1869,8 @@ sation_uc.eps>
 (epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_cas_utilisation_uc-eps-converted-to.pdf, id=95, 14
-71.4975pt x 913.4125pt>
+<diagrams/bathroom/diagramme_cas_utilisation_uc-eps-converted-to.pdf, id=105, 1
+471.4975pt x 913.4125pt>
 File: diagrams/bathroom/diagramme_cas_utilisation_uc-eps-converted-to.pdf Graph
 ic file (type pdf)
 
@@ -1906,7 +1917,7 @@ e_blocks_bdd-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd.eps>
 (epstopdf)             \includegraphics on input line 13.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf, id=105, 2933.9612
+<diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf, id=115, 2933.9612
 4pt x 913.4125pt>
 File: diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -1941,7 +1952,7 @@ e_blocks_bdd2-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd2.eps>
 (epstopdf)             \includegraphics on input line 29.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf, id=114, 2240.37p
+<diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf, id=124, 2240.37p
 t x 797.98125pt>
 File: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -1983,7 +1994,7 @@ e_blocks_ibd-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_ibd.eps>
 (epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf, id=129, 1966.3462
+<diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf, id=139, 1966.3462
 5pt x 885.3075pt>
 File: diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -2009,14 +2020,81 @@ l.83 	\include{contents/4_diagram_blocks_ibd}
 
 (./contents/5_diagram_states.tex
 Chapitre 5.
-) [9
+Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_etat_st.eps>
+(epstopdf)                    date: 2016-01-06 21:55:51
+(epstopdf)                    size: 144801 bytes
+(epstopdf)             Output file: <diagrams/bathroom/diagramme_etat_st-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-01-06 21:55:51
+(epstopdf)                    size: 62460 bytes
+(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
+e_etat_st-eps-converted-to.pdf diagrams/bathroom/diagramme_etat_st.eps>
+(epstopdf)             \includegraphics on input line 5.
+Package epstopdf Info: Output file is already uptodate.
+
+<diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf, id=148, 988.69376pt 
+x 737.75626pt>
+File: diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf>
+Package pdftex.def Info: diagrams/bathroom/diagramme_etat_st-eps-converted-to.p
+df used on input line 5.
+(pdftex.def)             Requested size: 500.7687pt x 373.66154pt.
+Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_etat_st2.eps>
+(epstopdf)                    date: 2016-01-06 20:35:41
+(epstopdf)                    size: 158265 bytes
+(epstopdf)             Output file: <diagrams/bathroom/diagramme_etat_st2-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2016-01-06 20:35:41
+(epstopdf)                    size: 66848 bytes
+(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
+e_etat_st2-eps-converted-to.pdf diagrams/bathroom/diagramme_etat_st2.eps>
+(epstopdf)             \includegraphics on input line 16.
+Package epstopdf Info: Output file is already uptodate.
+
+<diagrams/bathroom/diagramme_etat_st2-eps-converted-to.pdf, id=149, 1056.94875p
+t x 1113.15875pt>
+File: diagrams/bathroom/diagramme_etat_st2-eps-converted-to.pdf Graphic file (t
+ype pdf)
+
+<use diagrams/bathroom/diagramme_etat_st2-eps-converted-to.pdf>
+Package pdftex.def Info: diagrams/bathroom/diagramme_etat_st2-eps-converted-to.
+pdf used on input line 16.
+(pdftex.def)             Requested size: 500.7687pt x 527.39708pt.
+ [9
 
 
 
-]
+ <./diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf>])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+! Undefined control sequence.
+\f@ncyerf ->\logoFooter 
+                        \strut 
+l.85 	\include{contents/5_diagram_states}
+                                         	% diagramme d'états (st) #6
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.85 	\include{contents/5_diagram_states}
+                                         	% diagramme d'états (st) #6 <./diagr
+ams/bathroom/diagramme_etat_st2-eps-converted-to.pdf>]
 \openout2 = `contents/6_diagram_sequences.aux'.
 
- (./contents/6_diagram_sequences.tex
+
+(./contents/6_diagram_sequences.tex
 Chapitre 6.
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_sequence.eps>
 (epstopdf)                    date: 2016-01-06 21:43:09
@@ -2030,7 +2108,7 @@ e_sequence-eps-converted-to.pdf diagrams/bathroom/diagramme_sequence.eps>
 (epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_sequence-eps-converted-to.pdf, id=142, 1412.27625p
+<diagrams/bathroom/diagramme_sequence-eps-converted-to.pdf, id=164, 1412.27625p
 t x 1215.54124pt>
 File: diagrams/bathroom/diagramme_sequence-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2042,7 +2120,7 @@ pdf used on input line 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10
+ [11
 
 
 
@@ -2067,7 +2145,7 @@ e_sequence2-eps-converted-to.pdf diagrams/bathroom/diagramme_sequence2.eps>
 (epstopdf)             \includegraphics on input line 16.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf, id=150, 1466.47874
+<diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf, id=172, 1466.47874
 pt x 831.105pt>
 File: diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2083,7 +2161,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2
+! Undefined control sequence.
+\f@ncyerf ->\logoFooter 
+                        \strut 
+l.86 	\include{contents/6_diagram_sequences}
+                                            	% diagrammes de séquences #7
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2119,7 +2208,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                in the is_report.log file.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
-[12
+[13
 
 
 ]
@@ -2131,7 +2220,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `is_report.out' has not changed.
-(rerunfilecheck)             Checksum: 147D3D23077F36DA0D4FD741512ED7AC;864.
+(rerunfilecheck)             Checksum: ADBD48960E6E5A0A540D80C7B86C8E59;1085.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2139,13 +2228,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 29341 strings out of 493304
- 522200 string characters out of 6139871
- 654992 words of memory out of 5000000
- 31847 multiletter control sequences out of 15000+600000
+ 29360 strings out of 493304
+ 522839 string characters out of 6139871
+ 656173 words of memory out of 5000000
+ 31860 multiletter control sequences out of 15000+600000
  81451 words of font info for 59 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,12n,59p,10488b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,12n,59p,10488b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
 /fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc
 }</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/typ
@@ -2156,10 +2245,10 @@ ublic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share
 mr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fo
 nts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on is_report.pdf (12 pages, 707580 bytes).
+Output written on is_report.pdf (13 pages, 835610 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 184 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 248 PDF objects out of 1000 (max. 8388607)
+ 207 compressed objects within 3 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
