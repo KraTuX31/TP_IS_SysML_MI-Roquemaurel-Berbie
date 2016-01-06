@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  6 JAN 2016 22:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  6 JAN 2016 22:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1821,7 +1821,7 @@ Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_exiquences_req
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_exiquences_req-eps-converted-to.pdf diagrams/bathroom/diagramme_exiquences_re
 q.eps>
-(epstopdf)             \includegraphics on input line 10.
+(epstopdf)             \includegraphics on input line 11.
 Package epstopdf Info: Output file is already uptodate.
 
 <diagrams/bathroom/diagramme_exiquences_req-eps-converted-to.pdf, id=97, 1910.1
@@ -1831,7 +1831,7 @@ ile (type pdf)
 
 <use diagrams/bathroom/diagramme_exiquences_req-eps-converted-to.pdf>
 Package pdftex.def Info: diagrams/bathroom/diagramme_exiquences_req-eps-convert
-ed-to.pdf used on input line 10.
+ed-to.pdf used on input line 11.
 (pdftex.def)             Requested size: 500.7687pt x 392.34727pt.
 ) [4
 
@@ -1857,11 +1857,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_cas_utilisatio
 n_uc.eps>
-(epstopdf)                    date: 2016-01-06 20:35:41
+(epstopdf)                    date: 2016-01-06 22:22:57
 (epstopdf)                    size: 160792 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_cas_utilisatio
 n_uc-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-06 20:35:41
+(epstopdf)                    date: 2016-01-06 22:23:05
 (epstopdf)                    size: 72318 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_cas_utilisation_uc-eps-converted-to.pdf diagrams/bathroom/diagramme_cas_utili
@@ -1906,26 +1906,26 @@ LaTeX Font Warning: Font shape `T1/pag/bc/n' undefined
 
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd.eps
 >
-(epstopdf)                    date: 2016-01-06 20:35:41
-(epstopdf)                    size: 185737 bytes
+(epstopdf)                    date: 2016-01-06 22:30:32
+(epstopdf)                    size: 185872 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_bdd-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2016-01-06 20:35:41
-(epstopdf)                    size: 73479 bytes
+(epstopdf)                    date: 2016-01-06 22:30:42
+(epstopdf)                    size: 74095 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_blocks_bdd-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd.eps>
-(epstopdf)             \includegraphics on input line 13.
+(epstopdf)             \includegraphics on input line 14.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf, id=115, 2933.9612
-4pt x 913.4125pt>
+<diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf, id=115, 2535.4725
+pt x 1404.24625pt>
 File: diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf Graphic file 
 (type pdf)
 
 <use diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf>
 Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_bdd-eps-converted-t
-o.pdf used on input line 13.
-(pdftex.def)             Requested size: 500.7687pt x 155.89131pt.
+o.pdf used on input line 14.
+(pdftex.def)             Requested size: 500.7687pt x 277.33023pt.
  [6
 
 
@@ -1935,13 +1935,13 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.19 \section
+l.20 \section
              {Diagramme de bloc de « Montée-Descente »} <./diagrams/bathroom
 /diagramme_blocks_bdd-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd2.ep
 s>
-(epstopdf)                    date: 2016-01-06 20:43:31
-(epstopdf)                    size: 16173 bytes
+(epstopdf)                    date: 2016-01-06 22:34:33
+(epstopdf)                    size: 95109 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_bdd2-ep
 s-converted-to.pdf>
 (epstopdf)                    date: 2016-01-06 20:43:40
@@ -1949,18 +1949,25 @@ s-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_blocks_bdd2-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd2.eps>
 
-(epstopdf)             \includegraphics on input line 29.
-Package epstopdf Info: Output file is already uptodate.
+(epstopdf)             \includegraphics on input line 30.
+runsystem(repstopdf --outfile=diagrams/bathroom/diagramme_blocks_bdd2-eps-conve
+rted-to.pdf diagrams/bathroom/diagramme_blocks_bdd2.eps)...executed safely (all
+owed).
 
-<diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf, id=124, 2240.37p
-t x 797.98125pt>
+Package epstopdf Info: Result file: <diagrams/bathroom/diagramme_blocks_bdd2-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2016-01-06 22:34:38
+(epstopdf)                    size: 40106 bytes.
+
+<diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf, id=124, 1910.136
+25pt x 1025.8325pt>
 File: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf Graphic file
  (type pdf)
 
 <use diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf>
 Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-
-to.pdf used on input line 29.
-(pdftex.def)             Requested size: 500.7687pt x 178.35693pt.
+to.pdf used on input line 30.
+(pdftex.def)             Requested size: 500.7687pt x 268.93288pt.
 )
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1994,7 +2001,7 @@ e_blocks_ibd-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_ibd.eps>
 (epstopdf)             \includegraphics on input line 8.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf, id=139, 1966.3462
+<diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf, id=133, 1966.3462
 5pt x 885.3075pt>
 File: diagrams/bathroom/diagramme_blocks_ibd-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -2032,7 +2039,7 @@ e_etat_st-eps-converted-to.pdf diagrams/bathroom/diagramme_etat_st.eps>
 (epstopdf)             \includegraphics on input line 5.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf, id=148, 988.69376pt 
+<diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf, id=142, 988.69376pt 
 x 737.75626pt>
 File: diagrams/bathroom/diagramme_etat_st-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -2052,7 +2059,7 @@ e_etat_st2-eps-converted-to.pdf diagrams/bathroom/diagramme_etat_st2.eps>
 (epstopdf)             \includegraphics on input line 16.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_etat_st2-eps-converted-to.pdf, id=149, 1056.94875p
+<diagrams/bathroom/diagramme_etat_st2-eps-converted-to.pdf, id=143, 1056.94875p
 t x 1113.15875pt>
 File: diagrams/bathroom/diagramme_etat_st2-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2101,20 +2108,14 @@ Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_sequence.eps>
 (epstopdf)                    size: 148186 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_sequence-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2016-01-06 21:43:52
-(epstopdf)                    size: 61601 bytes
+(epstopdf)                    date: 2016-01-06 22:16:18
+(epstopdf)                    size: 62244 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_sequence-eps-converted-to.pdf diagrams/bathroom/diagramme_sequence.eps>
 (epstopdf)             \includegraphics on input line 9.
-runsystem(repstopdf --outfile=diagrams/bathroom/diagramme_sequence-eps-converte
-d-to.pdf diagrams/bathroom/diagramme_sequence.eps)...executed safely (allowed).
+Package epstopdf Info: Output file is already uptodate.
 
-Package epstopdf Info: Result file: <diagrams/bathroom/diagramme_sequence-eps-c
-onverted-to.pdf>
-(epstopdf)                    date: 2016-01-06 22:16:18
-(epstopdf)                    size: 62244 bytes.
-
-<diagrams/bathroom/diagramme_sequence-eps-converted-to.pdf, id=164, 1412.27625p
+<diagrams/bathroom/diagramme_sequence-eps-converted-to.pdf, id=158, 1412.27625p
 t x 1215.54124pt>
 File: diagrams/bathroom/diagramme_sequence-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2144,7 +2145,7 @@ e_sequence2-eps-converted-to.pdf diagrams/bathroom/diagramme_sequence2.eps>
 (epstopdf)             \includegraphics on input line 20.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf, id=169, 1466.47874
+<diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf, id=163, 1466.47874
 pt x 831.105pt>
 File: diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2246,7 +2247,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
 Here is how much of TeX's memory you used:
  29361 strings out of 493304
  522846 string characters out of 6139871
- 656173 words of memory out of 5000000
+ 656201 words of memory out of 5000000
  31860 multiletter control sequences out of 15000+600000
  81451 words of font info for 59 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -2261,10 +2262,10 @@ ublic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share
 mr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fo
 nts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on is_report.pdf (14 pages, 837715 bytes).
+Output written on is_report.pdf (14 pages, 871448 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
- 210 compressed objects within 3 object streams
+ 246 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
  38 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
