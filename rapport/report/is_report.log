@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  6 JAN 2016 21:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  6 JAN 2016 22:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2097,16 +2097,22 @@ ams/bathroom/diagramme_etat_st2-eps-converted-to.pdf>]
 (./contents/6_diagram_sequences.tex
 Chapitre 6.
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_sequence.eps>
-(epstopdf)                    date: 2016-01-06 21:43:09
-(epstopdf)                    size: 148686 bytes
+(epstopdf)                    date: 2016-01-06 22:16:14
+(epstopdf)                    size: 148186 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_sequence-eps-c
 onverted-to.pdf>
 (epstopdf)                    date: 2016-01-06 21:43:52
 (epstopdf)                    size: 61601 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_sequence-eps-converted-to.pdf diagrams/bathroom/diagramme_sequence.eps>
-(epstopdf)             \includegraphics on input line 5.
-Package epstopdf Info: Output file is already uptodate.
+(epstopdf)             \includegraphics on input line 9.
+runsystem(repstopdf --outfile=diagrams/bathroom/diagramme_sequence-eps-converte
+d-to.pdf diagrams/bathroom/diagramme_sequence.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <diagrams/bathroom/diagramme_sequence-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2016-01-06 22:16:18
+(epstopdf)                    size: 62244 bytes.
 
 <diagrams/bathroom/diagramme_sequence-eps-converted-to.pdf, id=164, 1412.27625p
 t x 1215.54124pt>
@@ -2115,7 +2121,7 @@ ype pdf)
 
 <use diagrams/bathroom/diagramme_sequence-eps-converted-to.pdf>
 Package pdftex.def Info: diagrams/bathroom/diagramme_sequence-eps-converted-to.
-pdf used on input line 5.
+pdf used on input line 9.
 (pdftex.def)             Requested size: 500.7687pt x 431.0101pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2124,14 +2130,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1}) 
-has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.13 L
-      es capteurs fournissent des informations (présence ou non du locatair...
- <./diagrams/bathroom/diagramme_sequence-eps-converted-to.pdf>]
+]
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_sequence2.eps>
 
 (epstopdf)                    date: 2016-01-06 20:35:41
@@ -2142,19 +2141,22 @@ converted-to.pdf>
 (epstopdf)                    size: 55501 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_sequence2-eps-converted-to.pdf diagrams/bathroom/diagramme_sequence2.eps>
-(epstopdf)             \includegraphics on input line 16.
+(epstopdf)             \includegraphics on input line 20.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf, id=172, 1466.47874
+<diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf, id=169, 1466.47874
 pt x 831.105pt>
 File: diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf Graphic file (
 type pdf)
 
 <use diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf>
 Package pdftex.def Info: diagrams/bathroom/diagramme_sequence2-eps-converted-to
-.pdf used on input line 16.
+.pdf used on input line 20.
 (pdftex.def)             Requested size: 500.7687pt x 283.80208pt.
 )
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -2172,7 +2174,21 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[12pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.86 	\include{contents/6_diagram_sequences}
+                                            	% diagrammes de séquences #7 <./d
+iagrams/bathroom/diagramme_sequence-eps-converted-to.pdf>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2208,7 +2224,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                in the is_report.log file.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
-[13
+[14
 
 
 ]
@@ -2228,13 +2244,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 29360 strings out of 493304
- 522839 string characters out of 6139871
+ 29361 strings out of 493304
+ 522846 string characters out of 6139871
  656173 words of memory out of 5000000
  31860 multiletter control sequences out of 15000+600000
  81451 words of font info for 59 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,12n,59p,10488b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,11n,59p,10488b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
 /fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc
 }</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/typ
@@ -2245,10 +2261,10 @@ ublic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share
 mr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fo
 nts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on is_report.pdf (13 pages, 835610 bytes).
+Output written on is_report.pdf (14 pages, 837715 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 207 compressed objects within 3 object streams
- 37 named destinations out of 1000 (max. 500000)
+ 252 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 38 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
