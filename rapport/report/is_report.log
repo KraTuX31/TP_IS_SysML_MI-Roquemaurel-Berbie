@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  6 JAN 2016 22:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  6 JAN 2016 22:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1936,8 +1936,8 @@ has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.20 \section
-             {Diagramme de bloc de « Montée-Descente »} <./diagrams/bathroom
-/diagramme_blocks_bdd-eps-converted-to.pdf>]
+             {Diagramme de blocs de « Montée-Descente »} <./diagrams/bathroo
+m/diagramme_blocks_bdd-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd2.ep
 s>
 (epstopdf)                    date: 2016-01-06 22:34:33
@@ -2136,29 +2136,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_sequence2.eps>
-
-(epstopdf)                    date: 2016-01-06 20:35:41
-(epstopdf)                    size: 131341 bytes
-(epstopdf)             Output file: <diagrams/bathroom/diagramme_sequence2-eps-
-converted-to.pdf>
-(epstopdf)                    date: 2016-01-06 20:35:41
-(epstopdf)                    size: 55501 bytes
-(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
-e_sequence2-eps-converted-to.pdf diagrams/bathroom/diagramme_sequence2.eps>
-(epstopdf)             \includegraphics on input line 20.
-Package epstopdf Info: Output file is already uptodate.
-
-<diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf, id=164, 1466.47874
-pt x 831.105pt>
-File: diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf Graphic file (
-type pdf)
-
-<use diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf>
-Package pdftex.def Info: diagrams/bathroom/diagramme_sequence2-eps-converted-to
-.pdf used on input line 20.
-(pdftex.def)             Requested size: 500.7687pt x 283.80208pt.
-)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2171,8 +2148,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 ! Undefined control sequence.
 \f@ncyerf ->\logoFooter 
                         \strut 
-l.86 	\include{contents/6_diagram_sequences}
-                                            	% diagrammes de séquences #7
+l.14 
+     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2184,9 +2161,31 @@ and I'll forget about whatever was undefined.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.86 	\include{contents/6_diagram_sequences}
-                                            	% diagrammes de séquences #7 <./d
-iagrams/bathroom/diagramme_sequence-eps-converted-to.pdf>]
+l.14 
+      <./diagrams/bathroom/diagramme_sequence-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_sequence2.eps>
+
+(epstopdf)                    date: 2016-01-06 20:35:41
+(epstopdf)                    size: 131341 bytes
+(epstopdf)             Output file: <diagrams/bathroom/diagramme_sequence2-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2016-01-06 20:35:41
+(epstopdf)                    size: 55501 bytes
+(epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
+e_sequence2-eps-converted-to.pdf diagrams/bathroom/diagramme_sequence2.eps>
+(epstopdf)             \includegraphics on input line 21.
+Package epstopdf Info: Output file is already uptodate.
+
+<diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf, id=171, 1466.47874
+pt x 831.105pt>
+File: diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf Graphic file (
+type pdf)
+
+<use diagrams/bathroom/diagramme_sequence2-eps-converted-to.pdf>
+Package pdftex.def Info: diagrams/bathroom/diagramme_sequence2-eps-converted-to
+.pdf used on input line 21.
+(pdftex.def)             Requested size: 500.7687pt x 283.80208pt.
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -2241,7 +2240,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `is_report.out' has not changed.
-(rerunfilecheck)             Checksum: ADBD48960E6E5A0A540D80C7B86C8E59;1085.
+(rerunfilecheck)             Checksum: 1ABA4DFB614FABC7277017AC4E1FE4C1;1085.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2266,7 +2265,7 @@ ublic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share
 mr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fo
 nts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on is_report.pdf (14 pages, 871881 bytes).
+Output written on is_report.pdf (14 pages, 871544 bytes).
 PDF statistics:
  248 PDF objects out of 1000 (max. 8388607)
  208 compressed objects within 3 object streams
