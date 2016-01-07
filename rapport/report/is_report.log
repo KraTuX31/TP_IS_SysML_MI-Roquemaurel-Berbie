@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  7 JAN 2016 22:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.1)  7 JAN 2016 22:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1816,19 +1816,12 @@ Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd.eps
 (epstopdf)                    size: 305015 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_bdd-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2016-01-07 21:59:03
-(epstopdf)                    size: 118910 bytes
+(epstopdf)                    date: 2016-01-07 22:05:20
+(epstopdf)                    size: 119440 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_blocks_bdd-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd.eps>
 (epstopdf)             \includegraphics on input line 14.
-runsystem(repstopdf --outfile=diagrams/bathroom/diagramme_blocks_bdd-eps-conver
-ted-to.pdf diagrams/bathroom/diagramme_blocks_bdd.eps)...executed safely (allow
-ed).
-
-Package epstopdf Info: Result file: <diagrams/bathroom/diagramme_blocks_bdd-eps
--converted-to.pdf>
-(epstopdf)                    date: 2016-01-07 22:05:20
-(epstopdf)                    size: 119440 bytes.
+Package epstopdf Info: Output file is already uptodate.
 
 <diagrams/bathroom/diagramme_blocks_bdd-eps-converted-to.pdf, id=105, 4382.3725
 pt x 2370.8575pt>
@@ -1853,27 +1846,27 @@ l.20 \section
 m/diagramme_blocks_bdd-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <diagrams/bathroom/diagramme_blocks_bdd2.ep
 s>
-(epstopdf)                    date: 2016-01-06 22:34:33
-(epstopdf)                    size: 95109 bytes
+(epstopdf)                    date: 2016-01-07 22:13:58
+(epstopdf)                    size: 156138 bytes
 (epstopdf)             Output file: <diagrams/bathroom/diagramme_blocks_bdd2-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2016-01-06 22:34:38
-(epstopdf)                    size: 40106 bytes
+(epstopdf)                    date: 2016-01-07 22:14:11
+(epstopdf)                    size: 65141 bytes
 (epstopdf)             Command: <repstopdf --outfile=diagrams/bathroom/diagramm
 e_blocks_bdd2-eps-converted-to.pdf diagrams/bathroom/diagramme_blocks_bdd2.eps>
 
 (epstopdf)             \includegraphics on input line 30.
 Package epstopdf Info: Output file is already uptodate.
 
-<diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf, id=114, 1910.136
-25pt x 1025.8325pt>
+<diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf, id=114, 2513.39p
+t x 1375.1375pt>
 File: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf Graphic file
  (type pdf)
 
 <use diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-to.pdf>
 Package pdftex.def Info: diagrams/bathroom/diagramme_blocks_bdd2-eps-converted-
 to.pdf used on input line 30.
-(pdftex.def)             Requested size: 500.7687pt x 268.93288pt.
+(pdftex.def)             Requested size: 500.7687pt x 273.97348pt.
 )
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2169,7 +2162,7 @@ Here is how much of TeX's memory you used:
 pe1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/avantgar/uagk8a.pfb>
-Output written on is_report.pdf (13 pages, 819606 bytes).
+Output written on is_report.pdf (13 pages, 844631 bytes).
 PDF statistics:
  221 PDF objects out of 1000 (max. 8388607)
  187 compressed objects within 2 object streams
